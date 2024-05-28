@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-moz-selection {
+  background: #e9ddff;
+}
+::-webkit-selection {
+  background: #e9ddff;
+}
+::selection {
+  background: #e9ddff;
+}
